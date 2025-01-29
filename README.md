@@ -2,10 +2,6 @@
 
 This is a Java 17-based vending machine simulation. The project allows users to interact as buyers or owners, providing functionalities for purchasing items, managing inventory, and handling payments.
 
-## Author
-Obada Abu Ishtayya  
-Email: obada.abo.shtia3@gmail.com
-
 ## Features
 
 - **Buyer Mode:**
