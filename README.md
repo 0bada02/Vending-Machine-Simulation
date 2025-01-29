@@ -76,7 +76,8 @@ Total: 27.50 JD
 ```
 ID  | Name       | Price   | Quantity
 --------------------------------------
-1   | Candy      | 0.50    | 20     
+1   | Candy      | 0.50    | 20
+
 Enter the item ID you want to buy: 1
 How many do you want: 3
 This item is available.
@@ -93,7 +94,8 @@ The rest of the amount 0.00 JD, Thank you for purchasing (:
 ```
 ID  | Name       | Price   | Quantity
 --------------------------------------
-1   | Candy      | 0.50    | 17     
+1   | Candy      | 0.50    | 17
+
 Enter the item ID you want to buy: 1
 How many do you want: 5
 This item is available.
